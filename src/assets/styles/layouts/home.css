@@ -1,4 +1,7 @@
 .box{
+   display: flex;
+   justify-content: center;
+   align-items: center;
    min-height: 600px;
    background-color: rgba(0, 0, 0, 0.164);
 }

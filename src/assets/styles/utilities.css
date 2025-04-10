@@ -5,6 +5,14 @@
    padding-left: calc(1.5rem - 20px);
 }
 
-.w-100{
-	width: 100%;
-}
+.w-100{ width: 100%; }
+
+.p-relative { position: relative;}
+.p-relative { position: absolute;}
+
+.d-flex { display: flex; }
+
+.j-content-center{ justify-content: center;}
+.j-content-between{ justify-content: space-between;}
+
+.a-items-center{ align-items: center;}

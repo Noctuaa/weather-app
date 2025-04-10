@@ -37,6 +37,20 @@
    line-height: 1.1;
  }
 
+ button{
+	cursor: pointer;
+ }
+
+ input{
+	border: none;
+	background: none;
+	outline: none;
+ }
+
+ input::placeholder {
+	color: var(--main-color);
+ }
+
  #app{
   display: flex;
   min-height: 100vh;
